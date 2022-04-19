@@ -1,0 +1,17 @@
+.thumnail {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 10px;
+}
+.thumbnail-img {
+  width: 60px;
+  height: 60px;
+}
+@media (min-width: 768px) {
+  .thumbnail-img {
+    width: 135px;
+    height: 130px;
+  }
+}

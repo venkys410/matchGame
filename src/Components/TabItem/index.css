@@ -1,0 +1,19 @@
+.tab-item-container {
+  list-style-type: none;
+}
+.tabBtn {
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.active-tab {
+  color: #fec653;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #fec653;
+}
